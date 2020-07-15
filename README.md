@@ -5,7 +5,7 @@ Home: https://github.com/jreese/aiosqlite
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: asyncio bridge to the standard sqlite3 module
 
