@@ -19,6 +19,7 @@ requirements:
     - python >=3.6
     - pip
     - flit-core >=2,<4
+    - typing-extensions >=3.7.2
   run:
     - python >=3.6
     - typing-extensions >=3.7.2
