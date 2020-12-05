@@ -21,6 +21,7 @@ requirements:
     - flit_core >=2,<4
   run:
     - python >=3.6
+    - typing_extensions >=3.7.2
 
 test:
   requires:
