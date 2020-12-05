@@ -1,7 +1,7 @@
 About aiosqlite
 ===============
 
-Home: https://github.com/jreese/aiosqlite
+Home: https://github.com/omnilib/aiosqlite
 
 Package license: MIT
 
@@ -9,7 +9,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aiosqlite-feeds
 
 Summary: asyncio bridge to the standard sqlite3 module
 
-Development: https://github.com/jreese/aiosqlite
+Development: https://github.com/omnilib/aiosqlite
 
 AsyncIO bridge to the standard sqlite3 module for Python 3.5+.
 
