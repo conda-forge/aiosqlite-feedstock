@@ -18,7 +18,7 @@ requirements:
   host:
     - python >=3.6
     - pip
-    - flit_core >=2,<4
+    - flit-core >=2,<4
   run:
     - python >=3.6
     - typing_extensions >=3.7.2
@@ -32,14 +32,14 @@ test:
     - aiosqlite
 
 about:
-  home: https://github.com/jreese/aiosqlite
+  home: https://github.com/omnilib/aiosqlite
   license: MIT
   license_family: MIT
   license_file: LICENSE
   summary: asyncio bridge to the standard sqlite3 module
   description: |
     AsyncIO bridge to the standard sqlite3 module for Python 3.5+.
-  dev_url: https://github.com/jreese/aiosqlite
+  dev_url: https://github.com/omnilib/aiosqlite
 
 extra:
   recipe-maintainers:
