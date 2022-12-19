@@ -1,5 +1,5 @@
 {% set name = "aiosqlite" %}
-{% set version = "0.17.0" %}
+{% set version = "0.18.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: f0e6acc24bc4864149267ac82fb46dfb3be4455f99fe21df82609cc6e6baee51
+  sha256: faa843ef5fb08bafe9a9b3859012d3d9d6f77ce3637899de20606b7fc39aa213
 
 build:
   noarch: python
