@@ -1,11 +1,11 @@
-About aiosqlite
-===============
+About aiosqlite-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aiosqlite-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/omnilib/aiosqlite
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aiosqlite-feedstock/blob/main/LICENSE.txt)
 
 Summary: asyncio bridge to the standard sqlite3 module
 
