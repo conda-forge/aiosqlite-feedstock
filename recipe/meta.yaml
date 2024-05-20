@@ -11,18 +11,18 @@ source:
 
 build:
   noarch: python
-  number: 0
+  number: 1
   script: {{ PYTHON }} -m pip install . -vv
 
 requirements:
   host:
-    - python >=3.6
+    - python >=3.8
     - pip
     - flit-core >=2,<4
-    - typing-extensions >=3.7.2
+    - typing-extensions >=4.0
   run:
-    - python >=3.6
-    - typing-extensions >=3.7.2
+    - python >=3.8
+    - typing-extensions >=4.0
 
 test:
   requires:
