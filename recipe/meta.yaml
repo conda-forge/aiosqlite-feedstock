@@ -19,10 +19,10 @@ requirements:
     - python {{ python_min }}
     - pip
     - flit-core >=2,<4
-    - typing-extensions >=3.7.2
+    - typing-extensions >=4.0
   run:
+    - typing-extensions >=4.0
     - python >={{ python_min }}
-    - typing-extensions >=3.7.2
 
 test:
   requires:
