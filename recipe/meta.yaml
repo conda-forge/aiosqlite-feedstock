@@ -18,11 +18,8 @@ requirements:
   host:
     - python {{ python_min }}
     - pip
-    - flit-core >=2,<4
-    - typing-extensions >=4.0
+    - flit-core >=3.8,<4
   run:
-    - typing_extensions >=4.0
-    - typing-extensions >=4.0
     - python >={{ python_min }}
 
 test:
