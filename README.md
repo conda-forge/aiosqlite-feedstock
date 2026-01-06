@@ -13,7 +13,6 @@ Development: https://github.com/omnilib/aiosqlite
 
 AsyncIO bridge to the standard sqlite3 module for Python 3.5+.
 
-
 Current build status
 ====================
 
